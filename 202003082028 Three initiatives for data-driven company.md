@@ -18,6 +18,7 @@ Data professionals must understand what decisions their business users make, and
    
 
 --
+[202003082109 Data delayed data is data denied.md](202003082109 Data delayed data is data denied.md)
   
 [https://hbr.org/2012/10/making-advanced-analytics-work-for-you](https://hbr.org/2012/10/making-advanced-analytics-work-for-you)
 
